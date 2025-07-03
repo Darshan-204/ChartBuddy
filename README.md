@@ -21,13 +21,13 @@ ChartBuddy is a real-time collaborative platform that enables multiple users to 
 git clone https://github.com/yourusername/chartBuddy.git
 
 # Navigate to the client directory
-cd chartBuddy/client
+cd chartBuddy/frontend
 
 # Install frontend dependencies
 npm install
 
 # Navigate to the server directory
-cd ../server
+cd ../backend
 
 # Install backend dependencies
 npm install

@@ -15,6 +15,7 @@ ChartBuddy is a real-time collaborative platform that enables multiple users to 
 -Database: MongoDB  <br/>
 -Real-time: WebSocket (Socket.io or similar)<br/>
 <h2>Installation</h2>
+
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/chartBuddy.git
@@ -30,4 +31,4 @@ cd ../server
 
 # Install backend dependencies
 npm install
-```
+
